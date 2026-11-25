@@ -1,0 +1,6 @@
+type,area_ha,centre_E,centre_N,mean_change_m,max_abs_change_m,volume_Mm3_indicative
+lowered (excavation),27.5,358037,1740529,-20.2,39.3,-5.57
+raised (dumps),13.0,358818,1740820,19.1,40.7,2.49
+lowered (excavation),5.8,359253,1741337,-21.0,32.7,-1.23
+raised (dumps),1.4,357739,1740589,12.0,15.6,0.17
+lowered (excavation),1.1,359110,1740062,-16.6,23.5,-0.18
