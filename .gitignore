@@ -1,0 +1,19 @@
+# full-scene Landsat downloads (~1 GB) - re-create with redi_download_data.py
+data/raw/
+
+# ArcGIS Pro / GDAL side files
+*.lock
+*.aux.xml
+*.tif.xml
+*.tfw
+*.vat.cpg
+*.vat.dbf
+.backups/
+GpMessages/
+ImportLog/
+Index/
+RasterFunctionTemplates/
+
+# Python
+__pycache__/
+*.pyc

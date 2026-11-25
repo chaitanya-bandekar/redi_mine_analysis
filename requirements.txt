@@ -1,0 +1,7 @@
+numpy
+scipy
+rasterio
+matplotlib
+# optional, only if arcpy is not available:
+pyogrio
+shapely
